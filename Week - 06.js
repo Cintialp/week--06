@@ -63,10 +63,10 @@ for (let i = 0; i < names.length; i++) {
 console.log("Concatenated names:", concatenatedNames);
 
 //Question 3 - How do you access the last element of any array?
-// - 
+// - To get the last item in an array when you don't know the length of that array: const lastItem = dog[dog. length - 1]
 
 //Question 4 -How do you access the first element of any array?
-// - 
+// - Array[0] In this way you can acess the first element of the arraay
 
 //Question 5 
 let namesArray = ["Kelly", "Sam", "Kate"]; 
